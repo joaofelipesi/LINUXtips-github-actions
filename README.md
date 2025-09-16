@@ -23,7 +23,7 @@ Neste projeto você aprenderá:
 
 2.  **Clone o seu Fork:**
     ```bash
-    git clone https://github.com/SEU-USUARIO-GITHUB/LINUXtips-github-actions.git
+    git clone https://github.com/joaofelipesi/LINUXtips-github-actions.git
     cd LINUXtips-github-actions
     ```
 
